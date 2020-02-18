@@ -1,6 +1,6 @@
-Question 1
 
-Find
+
+#Find Solution
 
 find("Hello",2,'e') --> true
 
@@ -9,7 +9,7 @@ find("Trash",4,'a') --> false
 find("Trash",4,'s') --> true
 
 
-Question 2
+#Factorial Solution 
 
 factorial
 
