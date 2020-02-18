@@ -14,7 +14,7 @@ factorial
 
 5! = 5x4x3x2x1
 
---ChickenAndRabbits--------
+--ChickenAndRabbits Problem--------
 
 Given an n heads and n legs find
 out how many chicken and rabbits 
@@ -23,7 +23,7 @@ there are
 rabbits have 4 legs
 chickens have 2 legs
 
-----borrowOrrob-----
+----borrowOrrob Problem-----
 Check if a String is a Palindrome
 
 
