@@ -6,7 +6,7 @@ public class Runner {
 		// TODO Auto-generated method stub
 		
 		chickenAndRabbits(35,94);
-		chickenAndRabbits2(72,200);
+		//chickenAndRabbits2(72,200);
 
 	}
 	
@@ -15,9 +15,9 @@ public class Runner {
 	
 		
 		for(int i=1; i<=heads;i++) {
-			for(int j=1; i<=heads;i++) {
+			for(int j=1; j<=heads;j++) {
 				if((i+j)==heads && (i*2+j*4) == legs) {
-					System.out.println("chicken = " +i + "rabbit = " + j);
+				System.out.println("chicken = " +i + "rabbit = " + j);
 				}
 			}
 			
