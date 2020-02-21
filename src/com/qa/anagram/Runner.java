@@ -8,11 +8,13 @@ public class Runner {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println(anagram("computer","retupmoc"));
+		System.out.println(anagram("computer","retupdsmoc"));
 
 	}
 	
 	public static boolean anagram(String a, String b) {
+		a = a.replaceAll(" ", "").toLowerCase();
+		b=b.replaceAll(" ", "").toLowerCase();
 		
 		if(a.length()!=b.length()) {
 			

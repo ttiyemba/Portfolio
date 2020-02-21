@@ -19,6 +19,7 @@ public class Runner {
 				if((i+j)==heads && (i*2+j*4) == legs) {
 				System.out.println("chicken = " +i + "rabbit = " + j);
 				}
+				
 			}
 			
 		}
