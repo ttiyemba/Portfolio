@@ -4,10 +4,11 @@ public class Runner {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
 
 	}
 	
-	 static int fibonacci(int num) {
+	 int fibonacci(int num) {
 		 if(num ==0) {
 			 return 0;
 		 }
@@ -23,7 +24,7 @@ public class Runner {
 		
 	}
 	 
-	 static int fibanacci2(int num) {
+	 int fibanacci2(int num) {
 		 if(num == 0) {
 			 return 0;
 		 }else if (num == 1) {
